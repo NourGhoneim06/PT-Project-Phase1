@@ -1,0 +1,21 @@
+# Visual Studio personal settings and cache (different on every PC)
+.vs/
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+ipch/
+
+# Build output (created when you press F5 / Build)
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.log
+*.tlog
